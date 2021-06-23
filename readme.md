@@ -10,5 +10,6 @@
 * 2-ntf.c
 * 2-estmet.c
 
-### 3 - Loops
+### 3 - Funções
 * 3-datesseries.c
+* 3-desmil.c
