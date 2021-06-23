@@ -1,0 +1,14 @@
+reg.xEsq > preserv_region.xDir ? sim
+reg.yInf > preserv_region.ySup ? não
+notpass
+
+preserv_region.xEsq > reg.xDir ?
+reg.xEsq = 20
+reg.yInf = 0
+reg.xDir = 30
+reg.ySup = 10
+
+preserv_region.xEsq = 0
+preserv_region.yInf = 0
+preserv_region.xDir = 10
+preserv_region.ySup = 10
