@@ -13,3 +13,4 @@
 ### 3 - Funções
 * 3-datesseries.c
 * 3-desmil.c
+* 3-luffy.c
