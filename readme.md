@@ -16,4 +16,5 @@
 * 3-luffy.c
 
 ### 4 - Vetores
-* 4-aglomerar
+* 4-aglomerar.c
+* 4-espeaerio.c
