@@ -18,3 +18,4 @@
 ### 4 - Vetores
 * 4-aglomerar.c
 * 4-espeaerio.c
+* 4-avt.c
