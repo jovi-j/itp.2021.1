@@ -21,4 +21,6 @@
 * 4-avt.c
 
 ### 4 - Matrizes
-* 5-marte.c
+* 5-arraytomatrix.c
+* 5-imageprocessing.c
+* 5-finalfrontier.c
